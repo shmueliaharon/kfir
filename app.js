@@ -1,6 +1,6 @@
 /* WOW Mobile RTL - unique thumbnails per place (no external images) */
-const STORAGE_KEY = 'trip_itinerary_v8';
-const COUNTRY_KEY = 'selected_country_v8';
+const STORAGE_KEY = 'trip_itinerary_v9';
+const COUNTRY_KEY = 'selected_country_v9';
 
 function hasValidData(d){
   return d && Array.isArray(d.days) && d.days.length > 0;
@@ -39,7 +39,7 @@ async function getDataAsync(){
 
   // 3) fallback: fetch itinerary.json from site
   try{
-    const res = await fetch('itinerary.json?v=8', {cache:'no-store'});
+    const res = await fetch('itinerary.json?v=9', {cache:'no-store'});
     const j = await res.json();
     if (hasValidData(j)){
       localStorage.setItem(STORAGE_KEY, JSON.stringify(j));
@@ -67,7 +67,7 @@ function buildImageUrl(rel){
   // support leading slash
   const path = s.startsWith('/') ? s.slice(1) : s;
   // add cache buster by build version
-  return path + '?v=8';
+  return path + '?v=9';
 }
 
 function buildMapsUrl(query){
@@ -323,7 +323,7 @@ function renderDay(data, idx){
           <div class="place__name">${(p.name || '').toString()}</div>
           <div class="place__type">${type}</div>
           ${p.description ? `<div class="place__desc">${(p.description || '').toString()}</div>` : ''}
-          ${p.website ? `<a class="place__site" href="${p.website}" target="_blank" rel="noopener">אתר רשמי</a>` : ''}
+          ${p.website ? `<a class="place__site" href="${p.website}" target="_blank" rel="noopener">${p.websiteLabel || 'קישור'}</a>` : ''}
           <div class="place__actions">
             <a class="small" href="${mapsUrl}" target="_blank" rel="noopener">פתח במפות</a>
             <button class="small" data-copy="${(p.name || '').toString()}">העתק שם</button>

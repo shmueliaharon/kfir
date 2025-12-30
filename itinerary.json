@@ -12,51 +12,87 @@
       "places": [
         {
           "name": "grand place - מתחם מקדשי המלך",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=grand%20place%20-%20%D7%9E%D7%AA%D7%97%D7%9D%20%D7%9E%D7%A7%D7%93%D7%A9%D7%99%20%D7%94%D7%9E%D7%9C%D7%9A%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "chatuchak markt - שוק מקומי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=chatuchak%20markt%20-%20%D7%A9%D7%95%D7%A7%20%D7%9E%D7%A7%D7%95%D7%9E%D7%99%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "asiatique - שוק לילה על הנהר",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=asiatique%20-%20%D7%A9%D7%95%D7%A7%20%D7%9C%D7%99%D7%9C%D7%94%20%D7%A2%D7%9C%20%D7%94%D7%A0%D7%94%D7%A8%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "wat arun -מקדש",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=wat%20arun%20-%D7%9E%D7%A7%D7%93%D7%A9%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "iconsiam - קניון ענק",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=iconsiam%20-%20%D7%A7%D7%A0%D7%99%D7%95%D7%9F%20%D7%A2%D7%A0%D7%A7%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "wat pho - מקדש הבודה השוכב",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=wat%20pho%20-%20%D7%9E%D7%A7%D7%93%D7%A9%20%D7%94%D7%91%D7%95%D7%93%D7%94%20%D7%94%D7%A9%D7%95%D7%9B%D7%91%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "dusit central park - פארק טבע מטורף",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=dusit%20central%20park%20-%20%D7%A4%D7%90%D7%A8%D7%A7%20%D7%98%D7%91%D7%A2%20%D7%9E%D7%98%D7%95%D7%A8%D7%A3%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "תצפית מגדל מאהאנקון - Mahanakhon Tower",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%AA%D7%A6%D7%A4%D7%99%D7%AA%20%D7%9E%D7%92%D7%93%D7%9C%20%D7%9E%D7%90%D7%94%D7%90%D7%A0%D7%A7%D7%95%D7%9F%20-%20Mahanakhon%20Tower%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "sampeng market - שוק מקומי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=sampeng%20market%20-%20%D7%A9%D7%95%D7%A7%20%D7%9E%D7%A7%D7%95%D7%9E%D7%99%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שיט בנהר??",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%98%20%D7%91%D7%A0%D7%94%D7%A8%3F%3F%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "chinatown - רחוב אוכל",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=chinatown%20-%20%D7%A8%D7%97%D7%95%D7%91%20%D7%90%D7%95%D7%9B%D7%9C%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "pak khlong talat - שוק פרחים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=pak%20khlong%20talat%20-%20%D7%A9%D7%95%D7%A7%20%D7%A4%D7%A8%D7%97%D7%99%D7%9D%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -85,7 +121,10 @@
       "places": [
         {
           "name": "טיול יום מחוץ לבנגקוק?",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%99%D7%95%D7%9D%20%D7%9E%D7%97%D7%95%D7%A5%20%D7%9C%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%3F%20%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -109,27 +148,45 @@
       "places": [
         {
           "name": "טיול יום - 42 האיים - Ang Thong",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%99%D7%95%D7%9D%20-%2042%20%D7%94%D7%90%D7%99%D7%99%D7%9D%20-%20Ang%20Thong%20%D7%A7%D7%95%D7%A4%D7%A0%D7%92%D7%9F%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיול יום קוטאו ונאנג יואן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%99%D7%95%D7%9D%20%D7%A7%D7%95%D7%98%D7%90%D7%95%20%D7%95%D7%A0%D7%90%D7%A0%D7%92%20%D7%99%D7%95%D7%90%D7%9F%20%D7%A7%D7%95%D7%A4%D7%A0%D7%92%D7%9F%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיול סובב קופנגן ברכב 4X4",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%A1%D7%95%D7%91%D7%91%20%D7%A7%D7%95%D7%A4%D7%A0%D7%92%D7%9F%20%D7%91%D7%A8%D7%9B%D7%91%204X4%20%D7%A7%D7%95%D7%A4%D7%A0%D7%92%D7%9F%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שוק אוכל יום ראשון - הד רין",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%A7%20%D7%90%D7%95%D7%9B%D7%9C%20%D7%99%D7%95%D7%9D%20%D7%A8%D7%90%D7%A9%D7%95%D7%9F%20-%20%D7%94%D7%93%20%D7%A8%D7%99%D7%9F%20%D7%A7%D7%95%D7%A4%D7%A0%D7%92%D7%9F%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיול יום בגונגלים חופים ומפלים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%99%D7%95%D7%9D%20%D7%91%D7%92%D7%95%D7%A0%D7%92%D7%9C%D7%99%D7%9D%20%D7%97%D7%95%D7%A4%D7%99%D7%9D%20%D7%95%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%A7%D7%95%D7%A4%D7%A0%D7%92%D7%9F%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "dao - מסעדת שף ישראלי יוקרתי",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=dao%20-%20%D7%9E%D7%A1%D7%A2%D7%93%D7%AA%20%D7%A9%D7%A3%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%20%D7%99%D7%95%D7%A7%D7%A8%D7%AA%D7%99%20%D7%A7%D7%95%D7%A4%D7%A0%D7%92%D7%9F%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -161,35 +218,59 @@
       "places": [
         {
           "name": "טיול 42 האיים - יותר זול מקופנגן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%2042%20%D7%94%D7%90%D7%99%D7%99%D7%9D%20-%20%D7%99%D7%95%D7%AA%D7%A8%20%D7%96%D7%95%D7%9C%20%D7%9E%D7%A7%D7%95%D7%A4%D7%A0%D7%92%D7%9F%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "אי החזירים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%90%D7%99%20%D7%94%D7%97%D7%96%D7%99%D7%A8%D7%99%D7%9D%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "אומגות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%90%D7%95%D7%9E%D7%92%D7%95%D7%AA%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טרקטורונים ברחבי האי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%A8%D7%A7%D7%98%D7%95%D7%A8%D7%95%D7%A0%D7%99%D7%9D%20%D7%91%D7%A8%D7%97%D7%91%D7%99%20%D7%94%D7%90%D7%99%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "רחבת מקדשים - wat plai laem",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A8%D7%97%D7%91%D7%AA%20%D7%9E%D7%A7%D7%93%D7%A9%D7%99%D7%9D%20-%20wat%20plai%20laem%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שוק לילה כפר הדייגים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%A7%20%D7%9C%D7%99%D7%9C%D7%94%20%D7%9B%D7%A4%D7%A8%20%D7%94%D7%93%D7%99%D7%99%D7%92%D7%99%D7%9D%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "central samui - מרכז קניות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=central%20samui%20-%20%D7%9E%D7%A8%D7%9B%D7%96%20%D7%A7%D7%A0%D7%99%D7%95%D7%AA%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "the cocoon - בית קפה מסעדה",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=the%20cocoon%20-%20%D7%91%D7%99%D7%AA%20%D7%A7%D7%A4%D7%94%20%D7%9E%D7%A1%D7%A2%D7%93%D7%94%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -202,7 +283,10 @@
       "places": [
         {
           "name": "coco tams - מסעדה בכפר הדייגים עם מופעי אש בלילה",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=coco%20tams%20-%20%D7%9E%D7%A1%D7%A2%D7%93%D7%94%20%D7%91%D7%9B%D7%A4%D7%A8%20%D7%94%D7%93%D7%99%D7%99%D7%92%D7%99%D7%9D%20%D7%A2%D7%9D%20%D7%9E%D7%95%D7%A4%D7%A2%D7%99%20%D7%90%D7%A9%20%D7%91%D7%9C%D7%99%D7%9C%D7%94%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -215,7 +299,10 @@
       "places": [
         {
           "name": "the jungle club - מסעדה בתצפית",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=the%20jungle%20club%20-%20%D7%9E%D7%A1%D7%A2%D7%93%D7%94%20%D7%91%D7%AA%D7%A6%D7%A4%D7%99%D7%AA%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -232,39 +319,66 @@
       "places": [
         {
           "name": "ריילי ביץ - חוף מדהים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A8%D7%99%D7%99%D7%9C%D7%99%20%D7%91%D7%99%D7%A5%20-%20%D7%97%D7%95%D7%A3%20%D7%9E%D7%93%D7%94%D7%99%D7%9D%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%2B%20%D7%A7%D7%A8%D7%90%D7%91%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "חוף פרה נאנג - לא רחוק מריילי ביץ",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%97%D7%95%D7%A3%20%D7%A4%D7%A8%D7%94%20%D7%A0%D7%90%D7%A0%D7%92%20-%20%D7%9C%D7%90%20%D7%A8%D7%97%D7%95%D7%A7%20%D7%9E%D7%A8%D7%99%D7%99%D7%9C%D7%99%20%D7%91%D7%99%D7%A5%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%2B%20%D7%A7%D7%A8%D7%90%D7%91%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מערת היהלומים - לא רחוק מריילי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A2%D7%A8%D7%AA%20%D7%94%D7%99%D7%94%D7%9C%D7%95%D7%9E%D7%99%D7%9D%20-%20%D7%9C%D7%90%20%D7%A8%D7%97%D7%95%D7%A7%20%D7%9E%D7%A8%D7%99%D7%99%D7%9C%D7%99%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%2B%20%D7%A7%D7%A8%D7%90%D7%91%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "הלגונה הנסתרת - ראיזור ריילי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%9C%D7%92%D7%95%D7%A0%D7%94%20%D7%94%D7%A0%D7%A1%D7%AA%D7%A8%D7%AA%20-%20%D7%A8%D7%90%D7%99%D7%96%D7%95%D7%A8%20%D7%A8%D7%99%D7%99%D7%9C%D7%99%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%2B%20%D7%A7%D7%A8%D7%90%D7%91%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיול 4 האיים וקופיפי - שייט מומלץ",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%204%20%D7%94%D7%90%D7%99%D7%99%D7%9D%20%D7%95%D7%A7%D7%95%D7%A4%D7%99%D7%A4%D7%99%20-%20%D7%A9%D7%99%D7%99%D7%98%20%D7%9E%D7%95%D7%9E%D7%9C%D7%A5%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%2B%20%D7%A7%D7%A8%D7%90%D7%91%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "הבריכה הכחולה ובריכת אזמרגד - רחוק",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%91%D7%A8%D7%99%D7%9B%D7%94%20%D7%94%D7%9B%D7%97%D7%95%D7%9C%D7%94%20%D7%95%D7%91%D7%A8%D7%99%D7%9B%D7%AA%20%D7%90%D7%96%D7%9E%D7%A8%D7%92%D7%93%20-%20%D7%A8%D7%97%D7%95%D7%A7%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%2B%20%D7%A7%D7%A8%D7%90%D7%91%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מקדש מערת הנמר",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A7%D7%93%D7%A9%20%D7%9E%D7%A2%D7%A8%D7%AA%20%D7%94%D7%A0%D7%9E%D7%A8%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%2B%20%D7%A7%D7%A8%D7%90%D7%91%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שייט לאיי הונג",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%99%D7%98%20%D7%9C%D7%90%D7%99%D7%99%20%D7%94%D7%95%D7%A0%D7%92%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%2B%20%D7%A7%D7%A8%D7%90%D7%91%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "סיור בקיאק ביער המנוגרבים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%99%D7%95%D7%A8%20%D7%91%D7%A7%D7%99%D7%90%D7%A7%20%D7%91%D7%99%D7%A2%D7%A8%20%D7%94%D7%9E%D7%A0%D7%95%D7%92%D7%A8%D7%91%D7%99%D7%9D%20%D7%A7%D7%95%D7%A1%D7%9E%D7%95%D7%99%20%2B%20%D7%A7%D7%A8%D7%90%D7%91%D7%99%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -312,35 +426,59 @@
       "places": [
         {
           "name": "מופע פנטזי - מתחם הופעות בלילה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%95%D7%A4%D7%A2%20%D7%A4%D7%A0%D7%98%D7%96%D7%99%20-%20%D7%9E%D7%AA%D7%97%D7%9D%20%D7%94%D7%95%D7%A4%D7%A2%D7%95%D7%AA%20%D7%91%D7%9C%D7%99%D7%9C%D7%94%20%D7%A4%D7%95%D7%A7%D7%98%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שייט 4 האיים כולל אי גימס בונד",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%99%D7%98%204%20%D7%94%D7%90%D7%99%D7%99%D7%9D%20%D7%9B%D7%95%D7%9C%D7%9C%20%D7%90%D7%99%20%D7%92%D7%99%D7%9E%D7%A1%20%D7%91%D7%95%D7%A0%D7%93%20%D7%A4%D7%95%D7%A7%D7%98%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שייט 7 האיים - מפרץ פאנג נגה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%99%D7%98%207%20%D7%94%D7%90%D7%99%D7%99%D7%9D%20-%20%D7%9E%D7%A4%D7%A8%D7%A5%20%D7%A4%D7%90%D7%A0%D7%92%20%D7%A0%D7%92%D7%94%20%D7%A4%D7%95%D7%A7%D7%98%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "חוות פילים טיפולית",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%97%D7%95%D7%95%D7%AA%20%D7%A4%D7%99%D7%9C%D7%99%D7%9D%20%D7%98%D7%99%D7%A4%D7%95%D7%9C%D7%99%D7%AA%20%D7%A4%D7%95%D7%A7%D7%98%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "אומגות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%90%D7%95%D7%9E%D7%92%D7%95%D7%AA%20%D7%A4%D7%95%D7%A7%D7%98%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "הבודהה הגדולה - תצפית",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%91%D7%95%D7%93%D7%94%D7%94%20%D7%94%D7%92%D7%93%D7%95%D7%9C%D7%94%20-%20%D7%AA%D7%A6%D7%A4%D7%99%D7%AA%20%D7%A4%D7%95%D7%A7%D7%98%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "העיר העתיקה - מקדש צאלונג ופרה טונג",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A2%D7%99%D7%A8%20%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94%20-%20%D7%9E%D7%A7%D7%93%D7%A9%20%D7%A6%D7%90%D7%9C%D7%95%D7%A0%D7%92%20%D7%95%D7%A4%D7%A8%D7%94%20%D7%98%D7%95%D7%A0%D7%92%20%D7%A4%D7%95%D7%A7%D7%98%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "דרך באנגלה - רחוב מרכזי בפאטונג",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%93%D7%A8%D7%9A%20%D7%91%D7%90%D7%A0%D7%92%D7%9C%D7%94%20-%20%D7%A8%D7%97%D7%95%D7%91%20%D7%9E%D7%A8%D7%9B%D7%96%D7%99%20%D7%91%D7%A4%D7%90%D7%98%D7%95%D7%A0%D7%92%20%D7%A4%D7%95%D7%A7%D7%98%20%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -372,35 +510,59 @@
       "places": [
         {
           "name": "ריבוע העיר העתיקה והמקדשים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A8%D7%99%D7%91%D7%95%D7%A2%20%D7%94%D7%A2%D7%99%D7%A8%20%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94%20%D7%95%D7%94%D7%9E%D7%A7%D7%93%D7%A9%D7%99%D7%9D%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Doi Suthep + wat phra lat - הר מקדשים ומפלים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Doi%20Suthep%20%2B%20wat%20phra%20lat%20-%20%D7%94%D7%A8%20%D7%9E%D7%A7%D7%93%D7%A9%D7%99%D7%9D%20%D7%95%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיול יום - Doi Inthanon, מקדשים ומפלים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%99%D7%95%D7%9D%20-%20Doi%20Inthanon%2C%20%D7%9E%D7%A7%D7%93%D7%A9%D7%99%D7%9D%20%D7%95%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Skyline adventure - אומגות מטורפות, קצת רחוק",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Skyline%20adventure%20-%20%D7%90%D7%95%D7%9E%D7%92%D7%95%D7%AA%20%D7%9E%D7%98%D7%95%D7%A8%D7%A4%D7%95%D7%AA%2C%20%D7%A7%D7%A6%D7%AA%20%D7%A8%D7%97%D7%95%D7%A7%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיול למפלים הדביקים וdontewada - מפלים ובית קפה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%9C%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%94%D7%93%D7%91%D7%99%D7%A7%D7%99%D7%9D%20%D7%95dontewada%20-%20%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%95%D7%91%D7%99%D7%AA%20%D7%A7%D7%A4%D7%94%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "חוות פילים - chai lai orchid",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%97%D7%95%D7%95%D7%AA%20%D7%A4%D7%99%D7%9C%D7%99%D7%9D%20-%20chai%20lai%20orchid%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "ראפטינג אקסטרים מטורף",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A8%D7%90%D7%A4%D7%98%D7%99%D7%A0%D7%92%20%D7%90%D7%A7%D7%A1%D7%98%D7%A8%D7%99%D7%9D%20%D7%9E%D7%98%D7%95%D7%A8%D7%A3%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שוק יום ראשון בעיר העתיקה",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%A7%20%D7%99%D7%95%D7%9D%20%D7%A8%D7%90%D7%A9%D7%95%D7%9F%20%D7%91%D7%A2%D7%99%D7%A8%20%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -413,7 +575,10 @@
       "places": [
         {
           "name": "נייט באזאר - שוק לילה",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A0%D7%99%D7%99%D7%98%20%D7%91%D7%90%D7%96%D7%90%D7%A8%20-%20%D7%A9%D7%95%D7%A7%20%D7%9C%D7%99%D7%9C%D7%94%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -426,11 +591,17 @@
       "places": [
         {
           "name": "בית קפה - chom café",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%91%D7%99%D7%AA%20%D7%A7%D7%A4%D7%94%20-%20chom%20caf%C3%A9%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "varsailles de flore - בית קפה בעיר העתיקה",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=varsailles%20de%20flore%20-%20%D7%91%D7%99%D7%AA%20%D7%A7%D7%A4%D7%94%20%D7%91%D7%A2%D7%99%D7%A8%20%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%9E%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -461,39 +632,66 @@
       "places": [
         {
           "name": "Pai Canyon - קניון עם נופים מטורפים (שקיעה)",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai%20Canyon%20-%20%D7%A7%D7%A0%D7%99%D7%95%D7%9F%20%D7%A2%D7%9D%20%D7%A0%D7%95%D7%A4%D7%99%D7%9D%20%D7%9E%D7%98%D7%95%D7%A8%D7%A4%D7%99%D7%9D%20%28%D7%A9%D7%A7%D7%99%D7%A2%D7%94%29%20%D7%A4%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Morpaeng Waterfall - מפלים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Morpaeng%20Waterfall%20-%20%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%A4%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Pai Zipline - אומגות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai%20Zipline%20-%20%D7%90%D7%95%D7%9E%D7%92%D7%95%D7%AA%20%D7%A4%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Pam Bok - מפלים ומסלול בטבע",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pam%20Bok%20-%20%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%20%D7%91%D7%98%D7%91%D7%A2%20%D7%A4%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Wat Phra That Mae Yen - מקדש בודהה לבנה ותצפית על פאי והאיזור",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20That%20Mae%20Yen%20-%20%D7%9E%D7%A7%D7%93%D7%A9%20%D7%91%D7%95%D7%93%D7%94%D7%94%20%D7%9C%D7%91%D7%A0%D7%94%20%D7%95%D7%AA%D7%A6%D7%A4%D7%99%D7%AA%20%D7%A2%D7%9C%20%D7%A4%D7%90%D7%99%20%D7%95%D7%94%D7%90%D7%99%D7%96%D7%95%D7%A8%20%D7%A4%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "גשר במבוק - Kho Ku So Bamboo Bridge",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%92%D7%A9%D7%A8%20%D7%91%D7%9E%D7%91%D7%95%D7%A7%20-%20Kho%20Ku%20So%20Bamboo%20Bridge%20%D7%A4%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Mae Yen Waterfall - מפלים טיול כמה שעות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Mae%20Yen%20Waterfall%20-%20%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%98%D7%99%D7%95%D7%9C%20%D7%9B%D7%9E%D7%94%20%D7%A9%D7%A2%D7%95%D7%AA%20%D7%A4%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "yun lai, Two Huts Pai - תצפיות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=yun%20lai%2C%20Two%20Huts%20Pai%20-%20%D7%AA%D7%A6%D7%A4%D7%99%D7%95%D7%AA%20%D7%A4%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שוק לילה - וואקינג סטריט",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%A7%20%D7%9C%D7%99%D7%9C%D7%94%20-%20%D7%95%D7%95%D7%90%D7%A7%D7%99%D7%A0%D7%92%20%D7%A1%D7%98%D7%A8%D7%99%D7%98%20%D7%A4%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -533,35 +731,59 @@
       "places": [
         {
           "name": "Chiang Rai Night Bazaar - שוק אוכל וקניות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Chiang%20Rai%20Night%20Bazaar%20-%20%D7%A9%D7%95%D7%A7%20%D7%90%D7%95%D7%9B%D7%9C%20%D7%95%D7%A7%D7%A0%D7%99%D7%95%D7%AA%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%A8%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Khun Korn Waterfall - מפלים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Khun%20Korn%20Waterfall%20-%20%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%A8%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "אופציה לטיול יום לנק הרשומות -",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%90%D7%95%D7%A4%D7%A6%D7%99%D7%94%20%D7%9C%D7%98%D7%99%D7%95%D7%9C%20%D7%99%D7%95%D7%9D%20%D7%9C%D7%A0%D7%A7%20%D7%94%D7%A8%D7%A9%D7%95%D7%9E%D7%95%D7%AA%20-%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%A8%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Wat Rong Khun - המקדש הלבן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Wat%20Rong%20Khun%20-%20%D7%94%D7%9E%D7%A7%D7%93%D7%A9%20%D7%94%D7%9C%D7%91%D7%9F%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%A8%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Wat Rong Suea Ten - המקדש הכחול",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Wat%20Rong%20Suea%20Ten%20-%20%D7%94%D7%9E%D7%A7%D7%93%D7%A9%20%D7%94%D7%9B%D7%97%D7%95%D7%9C%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%A8%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "תצפית דוי טונג - לוודא שחלק מהטיול",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%AA%D7%A6%D7%A4%D7%99%D7%AA%20%D7%93%D7%95%D7%99%20%D7%98%D7%95%D7%A0%D7%92%20-%20%D7%9C%D7%95%D7%95%D7%93%D7%90%20%D7%A9%D7%97%D7%9C%D7%A7%20%D7%9E%D7%94%D7%98%D7%99%D7%95%D7%9C%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%A8%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Choui Fong Tea - שדות תה (לשלב עם דוי טונג)",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Choui%20Fong%20Tea%20-%20%D7%A9%D7%93%D7%95%D7%AA%20%D7%AA%D7%94%20%28%D7%9C%D7%A9%D7%9C%D7%91%20%D7%A2%D7%9D%20%D7%93%D7%95%D7%99%20%D7%98%D7%95%D7%A0%D7%92%29%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%A8%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "lalita café - בית קפה",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=lalita%20caf%C3%A9%20-%20%D7%91%D7%99%D7%AA%20%D7%A7%D7%A4%D7%94%20%D7%A6%D7%90%D7%A0%D7%92%20%D7%A8%D7%90%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -592,31 +814,52 @@
       "places": [
         {
           "name": "מפלי קונג סי - Kuang Si Waterfall",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A4%D7%9C%D7%99%20%D7%A7%D7%95%D7%A0%D7%92%20%D7%A1%D7%99%20-%20Kuang%20Si%20Waterfall%20%D7%9C%D7%95%D7%90%D7%A0%D7%92%20%D7%A4%D7%A8%D7%90%D7%91%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "הר פו סי - שקיעה וארוחה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A8%20%D7%A4%D7%95%20%D7%A1%D7%99%20-%20%D7%A9%D7%A7%D7%99%D7%A2%D7%94%20%D7%95%D7%90%D7%A8%D7%95%D7%97%D7%94%20%D7%9C%D7%95%D7%90%D7%A0%D7%92%20%D7%A4%D7%A8%D7%90%D7%91%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "סיור בכפר הפילים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%99%D7%95%D7%A8%20%D7%91%D7%9B%D7%A4%D7%A8%20%D7%94%D7%A4%D7%99%D7%9C%D7%99%D7%9D%20%D7%9C%D7%95%D7%90%D7%A0%D7%92%20%D7%A4%D7%A8%D7%90%D7%91%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Royal Palace Museum - מוזיאון לאומי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Royal%20Palace%20Museum%20-%20%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F%20%D7%9C%D7%90%D7%95%D7%9E%D7%99%20%D7%9C%D7%95%D7%90%D7%A0%D7%92%20%D7%A4%D7%A8%D7%90%D7%91%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מפלי Tad Sae - מפלים קטנים ובריכות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A4%D7%9C%D7%99%20Tad%20Sae%20-%20%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%A7%D7%98%D7%A0%D7%99%D7%9D%20%D7%95%D7%91%D7%A8%D7%99%D7%9B%D7%95%D7%AA%20%D7%9C%D7%95%D7%90%D7%A0%D7%92%20%D7%A4%D7%A8%D7%90%D7%91%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מקדשים - מקדש וואט סיאנג תונג",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A7%D7%93%D7%A9%D7%99%D7%9D%20-%20%D7%9E%D7%A7%D7%93%D7%A9%20%D7%95%D7%95%D7%90%D7%98%20%D7%A1%D7%99%D7%90%D7%A0%D7%92%20%D7%AA%D7%95%D7%A0%D7%92%20%D7%9C%D7%95%D7%90%D7%A0%D7%92%20%D7%A4%D7%A8%D7%90%D7%91%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שוק לילה מטורף",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%A7%20%D7%9C%D7%99%D7%9C%D7%94%20%D7%9E%D7%98%D7%95%D7%A8%D7%A3%20%D7%9C%D7%95%D7%90%D7%A0%D7%92%20%D7%A4%D7%A8%D7%90%D7%91%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -639,11 +882,17 @@
       "places": [
         {
           "name": "טיול 100 המפלים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20100%20%D7%94%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%9C%D7%95%D7%90%D7%A0%D7%92%20%D7%A4%D7%A8%D7%90%D7%91%D7%A0%D7%92%20%2B%20%D7%A0%D7%95%D7%A0%D7%92%20%D7%A7%D7%99%D7%90%D7%95%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מסלול מאורגן ליום / יומיים - שייט, טיולים, כפר נידח",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%20%D7%9E%D7%90%D7%95%D7%A8%D7%92%D7%9F%20%D7%9C%D7%99%D7%95%D7%9D%20/%20%D7%99%D7%95%D7%9E%D7%99%D7%99%D7%9D%20-%20%D7%A9%D7%99%D7%99%D7%98%2C%20%D7%98%D7%99%D7%95%D7%9C%D7%99%D7%9D%2C%20%D7%9B%D7%A4%D7%A8%20%D7%A0%D7%99%D7%93%D7%97%20%D7%9C%D7%95%D7%90%D7%A0%D7%92%20%D7%A4%D7%A8%D7%90%D7%91%D7%A0%D7%92%20%2B%20%D7%A0%D7%95%D7%A0%D7%92%20%D7%A7%D7%99%D7%90%D7%95%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -674,27 +923,45 @@
       "places": [
         {
           "name": "טיובינג - שייט באבובים בין ברים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%91%D7%99%D7%A0%D7%92%20-%20%D7%A9%D7%99%D7%99%D7%98%20%D7%91%D7%90%D7%91%D7%95%D7%91%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%91%D7%A8%D7%99%D7%9D%20%D7%A0%D7%95%D7%A0%D7%92%20%D7%A7%D7%99%D7%90%D7%95%20%2B%20%D7%95%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%90%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיול בלגונה הכחולה ובמערת טאם פו קאם",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%91%D7%9C%D7%92%D7%95%D7%A0%D7%94%20%D7%94%D7%9B%D7%97%D7%95%D7%9C%D7%94%20%D7%95%D7%91%D7%9E%D7%A2%D7%A8%D7%AA%20%D7%98%D7%90%D7%9D%20%D7%A4%D7%95%20%D7%A7%D7%90%D7%9D%20%D7%A0%D7%95%D7%A0%D7%92%20%D7%A7%D7%99%D7%90%D7%95%20%2B%20%D7%95%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%90%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "לגונות - 2, 4, 5, 3? - הן המומלצות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9C%D7%92%D7%95%D7%A0%D7%95%D7%AA%20-%202%2C%204%2C%205%2C%203%3F%20-%20%D7%94%D7%9F%20%D7%94%D7%9E%D7%95%D7%9E%D7%9C%D7%A6%D7%95%D7%AA%20%D7%A0%D7%95%D7%A0%D7%92%20%D7%A7%D7%99%D7%90%D7%95%20%2B%20%D7%95%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%90%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מערת טאם נאם - שייט במערה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A2%D7%A8%D7%AA%20%D7%98%D7%90%D7%9D%20%D7%A0%D7%90%D7%9D%20-%20%D7%A9%D7%99%D7%99%D7%98%20%D7%91%D7%9E%D7%A2%D7%A8%D7%94%20%D7%A0%D7%95%D7%A0%D7%92%20%D7%A7%D7%99%D7%90%D7%95%20%2B%20%D7%95%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%90%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "תצפית מדהימה - נאמשאי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%AA%D7%A6%D7%A4%D7%99%D7%AA%20%D7%9E%D7%93%D7%94%D7%99%D7%9E%D7%94%20-%20%D7%A0%D7%90%D7%9E%D7%A9%D7%90%D7%99%20%D7%A0%D7%95%D7%A0%D7%92%20%D7%A7%D7%99%D7%90%D7%95%20%2B%20%D7%95%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%90%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "tham chang - מערה קרובה מרשימה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=tham%20chang%20-%20%D7%9E%D7%A2%D7%A8%D7%94%20%D7%A7%D7%A8%D7%95%D7%91%D7%94%20%D7%9E%D7%A8%D7%A9%D7%99%D7%9E%D7%94%20%D7%A0%D7%95%D7%A0%D7%92%20%D7%A7%D7%99%D7%90%D7%95%20%2B%20%D7%95%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%90%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -749,23 +1016,38 @@
       "places": [
         {
           "name": "wat si saket - מתחם מקדשים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=wat%20si%20saket%20-%20%D7%9E%D7%AA%D7%97%D7%9D%20%D7%9E%D7%A7%D7%93%D7%A9%D7%99%D7%9D%20%D7%95%D7%99%D7%90%D7%A0%D7%98%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "patuxai - שער הניצחון",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=patuxai%20-%20%D7%A9%D7%A2%D7%A8%20%D7%94%D7%A0%D7%99%D7%A6%D7%97%D7%95%D7%9F%20%D7%95%D7%99%D7%90%D7%A0%D7%98%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "that luang -מקדש מרכזי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=that%20luang%20-%D7%9E%D7%A7%D7%93%D7%A9%20%D7%9E%D7%A8%D7%9B%D7%96%D7%99%20%D7%95%D7%99%D7%90%D7%A0%D7%98%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "פארק הבודהה - מחוץ לויאנטין",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A4%D7%90%D7%A8%D7%A7%20%D7%94%D7%91%D7%95%D7%93%D7%94%D7%94%20-%20%D7%9E%D7%97%D7%95%D7%A5%20%D7%9C%D7%95%D7%99%D7%90%D7%A0%D7%98%D7%99%D7%9F%20%D7%95%D7%99%D7%90%D7%A0%D7%98%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיילת המקונג - טיילת על הנהר עם מלא אוכל",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%99%D7%9C%D7%AA%20%D7%94%D7%9E%D7%A7%D7%95%D7%A0%D7%92%20-%20%D7%98%D7%99%D7%99%D7%9C%D7%AA%20%D7%A2%D7%9C%20%D7%94%D7%A0%D7%94%D7%A8%20%D7%A2%D7%9D%20%D7%9E%D7%9C%D7%90%20%D7%90%D7%95%D7%9B%D7%9C%20%D7%95%D7%99%D7%90%D7%A0%D7%98%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -790,7 +1072,10 @@
       "places": [
         {
           "name": "https://mizrah.co.il/%D7%98%D7%94-%D7%A7%D7%A7-thakhek-2/",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=https%3A//mizrah.co.il/%25D7%2598%25D7%2594-%25D7%25A7%25D7%25A7-thakhek-2/%20%D7%9C%D7%95%D7%A4%20%D7%AA%D7%90%D7%A7%D7%A7%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -831,7 +1116,10 @@
       "places": [
         {
           "name": "https://eastcardil.co.il/loop-pakse-laos/",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=https%3A//eastcardil.co.il/loop-pakse-laos/%20%D7%9C%D7%95%D7%A4%20%D7%A4%D7%A7%D7%A1%D7%94%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -872,19 +1160,31 @@
       "places": [
         {
           "name": "Li Phi Somphamit Waterfalls - מפלים מטורפים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Li%20Phi%20Somphamit%20Waterfalls%20-%20%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%9E%D7%98%D7%95%D7%A8%D7%A4%D7%99%D7%9D%20%D7%93%D7%95%D7%9F%20%D7%93%D7%90%D7%98%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Khong Phapheng - מפלים עצומים (קצת רחוקים)",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=Khong%20Phapheng%20-%20%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%A2%D7%A6%D7%95%D7%9E%D7%99%D7%9D%20%28%D7%A7%D7%A6%D7%AA%20%D7%A8%D7%97%D7%95%D7%A7%D7%99%D7%9D%29%20%D7%93%D7%95%D7%9F%20%D7%93%D7%90%D7%98%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיול באופניים ברחבי האי + האי דון קון",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%91%D7%90%D7%95%D7%A4%D7%A0%D7%99%D7%99%D7%9D%20%D7%91%D7%A8%D7%97%D7%91%D7%99%20%D7%94%D7%90%D7%99%20%2B%20%D7%94%D7%90%D7%99%20%D7%93%D7%95%D7%9F%20%D7%A7%D7%95%D7%9F%20%D7%93%D7%95%D7%9F%20%D7%93%D7%90%D7%98%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שייט בנהר המקונג",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%99%D7%98%20%D7%91%D7%A0%D7%94%D7%A8%20%D7%94%D7%9E%D7%A7%D7%95%D7%A0%D7%92%20%D7%93%D7%95%D7%9F%20%D7%93%D7%90%D7%98%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -915,23 +1215,38 @@
       "places": [
         {
           "name": "מקדשי אנגקור",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A7%D7%93%D7%A9%D7%99%20%D7%90%D7%A0%D7%92%D7%A7%D7%95%D7%A8%20%D7%A1%D7%99%D7%90%D7%9D%20%D7%A8%D7%99%D7%A4%20%D7%A7%D7%9E%D7%91%D7%95%D7%93%D7%99%D7%94",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "ביקור באגם טונלה סאפ והכפר הצף",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%91%D7%99%D7%A7%D7%95%D7%A8%20%D7%91%D7%90%D7%92%D7%9D%20%D7%98%D7%95%D7%A0%D7%9C%D7%94%20%D7%A1%D7%90%D7%A4%20%D7%95%D7%94%D7%9B%D7%A4%D7%A8%20%D7%94%D7%A6%D7%A3%20%D7%A1%D7%99%D7%90%D7%9D%20%D7%A8%D7%99%D7%A4%20%D7%A7%D7%9E%D7%91%D7%95%D7%93%D7%99%D7%94",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "קרקס קמבודי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A7%D7%A8%D7%A7%D7%A1%20%D7%A7%D7%9E%D7%91%D7%95%D7%93%D7%99%20%D7%A1%D7%99%D7%90%D7%9D%20%D7%A8%D7%99%D7%A4%20%D7%A7%D7%9E%D7%91%D7%95%D7%93%D7%99%D7%94",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טיול יום - פארק קולן - נוף וטבע מטורף ומפלים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%99%D7%95%D7%9D%20-%20%D7%A4%D7%90%D7%A8%D7%A7%20%D7%A7%D7%95%D7%9C%D7%9F%20-%20%D7%A0%D7%95%D7%A3%20%D7%95%D7%98%D7%91%D7%A2%20%D7%9E%D7%98%D7%95%D7%A8%D7%A3%20%D7%95%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%A1%D7%99%D7%90%D7%9D%20%D7%A8%D7%99%D7%A4%20%D7%A7%D7%9E%D7%91%D7%95%D7%93%D7%99%D7%94",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שווקי לילה - אוכל וברים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%95%D7%A7%D7%99%20%D7%9C%D7%99%D7%9C%D7%94%20-%20%D7%90%D7%95%D7%9B%D7%9C%20%D7%95%D7%91%D7%A8%D7%99%D7%9D%20%D7%A1%D7%99%D7%90%D7%9D%20%D7%A8%D7%99%D7%A4%20%D7%A7%D7%9E%D7%91%D7%95%D7%93%D7%99%D7%94",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -970,39 +1285,66 @@
       "places": [
         {
           "name": "שייט בנהר המקונן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%99%D7%98%20%D7%91%D7%A0%D7%94%D7%A8%20%D7%94%D7%9E%D7%A7%D7%95%D7%A0%D7%9F%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מנהרות המלחמה - מחוץ לעיר",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A0%D7%94%D7%A8%D7%95%D7%AA%20%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94%20-%20%D7%9E%D7%97%D7%95%D7%A5%20%D7%9C%D7%A2%D7%99%D7%A8%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "בניין הדואר הישן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%91%D7%A0%D7%99%D7%99%D7%9F%20%D7%94%D7%93%D7%95%D7%90%D7%A8%20%D7%94%D7%99%D7%A9%D7%9F%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "קטדרלת נוטרדם",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A7%D7%98%D7%93%D7%A8%D7%9C%D7%AA%20%D7%A0%D7%95%D7%98%D7%A8%D7%93%D7%9D%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מקדש קאו דאי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A7%D7%93%D7%A9%20%D7%A7%D7%90%D7%95%20%D7%93%D7%90%D7%99%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מוזיאון המלחמה - War Remnants Museum",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F%20%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94%20-%20War%20Remnants%20Museum%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "ארמון האיחוד (Reunification Palace)",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%90%D7%A8%D7%9E%D7%95%D7%9F%20%D7%94%D7%90%D7%99%D7%97%D7%95%D7%93%20%28Reunification%20Palace%29%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שוק בין טאי",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%A7%20%D7%91%D7%99%D7%9F%20%D7%98%D7%90%D7%99%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "Bui Vien Street‬",
-          "type": "אוכל"
+          "type": "אוכל",
+          "website": "https://www.google.com/maps/search/?api=1&query=Bui%20Vien%20Street%E2%80%AC%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1033,35 +1375,59 @@
       "places": [
         {
           "name": "גן הפרחים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%92%D7%9F%20%D7%94%D7%A4%D7%A8%D7%97%D7%99%D7%9D%20%D7%93%D7%90%D7%9C%D7%90%D7%AA%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שוק הלילה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%A7%20%D7%94%D7%9C%D7%99%D7%9C%D7%94%20%D7%93%D7%90%D7%9C%D7%90%D7%AA%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "הבית המשוגע - בית בעיצוב מטורף",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%91%D7%99%D7%AA%20%D7%94%D7%9E%D7%A9%D7%95%D7%92%D7%A2%20-%20%D7%91%D7%99%D7%AA%20%D7%91%D7%A2%D7%99%D7%A6%D7%95%D7%91%20%D7%9E%D7%98%D7%95%D7%A8%D7%A3%20%D7%93%D7%90%D7%9C%D7%90%D7%AA%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "datanla waterfalls - מפלי דאטלן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=datanla%20waterfalls%20-%20%D7%9E%D7%A4%D7%9C%D7%99%20%D7%93%D7%90%D7%98%D7%9C%D7%9F%20%D7%93%D7%90%D7%9C%D7%90%D7%AA%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "xuan huong - אגם סואן הונג",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=xuan%20huong%20-%20%D7%90%D7%92%D7%9D%20%D7%A1%D7%95%D7%90%D7%9F%20%D7%94%D7%95%D7%A0%D7%92%20%D7%93%D7%90%D7%9C%D7%90%D7%AA%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מפלים - דטנלה, פונגור, פיל, קם לי ודמברי",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20-%20%D7%93%D7%98%D7%A0%D7%9C%D7%94%2C%20%D7%A4%D7%95%D7%A0%D7%92%D7%95%D7%A8%2C%20%D7%A4%D7%99%D7%9C%2C%20%D7%A7%D7%9D%20%D7%9C%D7%99%20%D7%95%D7%93%D7%9E%D7%91%D7%A8%D7%99%20%D7%93%D7%90%D7%9C%D7%90%D7%AA%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "סנפלינג מפלים חובה!!!",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%A0%D7%A4%D7%9C%D7%99%D7%A0%D7%92%20%D7%9E%D7%A4%D7%9C%D7%99%D7%9D%20%D7%97%D7%95%D7%91%D7%94%21%21%21%20%D7%93%D7%90%D7%9C%D7%90%D7%AA%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מונגולנד - מגלשת קשת בענן ומריו קארד",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%95%D7%A0%D7%92%D7%95%D7%9C%D7%A0%D7%93%20-%20%D7%9E%D7%92%D7%9C%D7%A9%D7%AA%20%D7%A7%D7%A9%D7%AA%20%D7%91%D7%A2%D7%A0%D7%9F%20%D7%95%D7%9E%D7%A8%D7%99%D7%95%20%D7%A7%D7%90%D7%A8%D7%93%20%D7%93%D7%90%D7%9C%D7%90%D7%AA%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1100,27 +1466,45 @@
       "places": [
         {
           "name": "סדנאת אוכל!",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%93%D7%A0%D7%90%D7%AA%20%D7%90%D7%95%D7%9B%D7%9C%21%20%D7%94%D7%95%D7%99%20%D7%90%D7%9F%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "טרה קואה - כפר חקלאי סמוך להוי אן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%A8%D7%94%20%D7%A7%D7%95%D7%90%D7%94%20-%20%D7%9B%D7%A4%D7%A8%20%D7%97%D7%A7%D7%9C%D7%90%D7%99%20%D7%A1%D7%9E%D7%95%D7%9A%20%D7%9C%D7%94%D7%95%D7%99%20%D7%90%D7%9F%20%D7%94%D7%95%D7%99%20%D7%90%D7%9F%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "העיר העתיקה והגשר היפני - ancient town",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A2%D7%99%D7%A8%20%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94%20%D7%95%D7%94%D7%92%D7%A9%D7%A8%20%D7%94%D7%99%D7%A4%D7%A0%D7%99%20-%20ancient%20town%20%D7%94%D7%95%D7%99%20%D7%90%D7%9F%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שייט בנהר - thu bon",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%99%D7%98%20%D7%91%D7%A0%D7%94%D7%A8%20-%20thu%20bon%20%D7%94%D7%95%D7%99%20%D7%90%D7%9F%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "סירות עגולות ביער הקוקוסים",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%99%D7%A8%D7%95%D7%AA%20%D7%A2%D7%92%D7%95%D7%9C%D7%95%D7%AA%20%D7%91%D7%99%D7%A2%D7%A8%20%D7%94%D7%A7%D7%95%D7%A7%D7%95%D7%A1%D7%99%D7%9D%20%D7%94%D7%95%D7%99%20%D7%90%D7%9F%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "חופים לא רחוקים - cua dai / an bang",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%97%D7%95%D7%A4%D7%99%D7%9D%20%D7%9C%D7%90%20%D7%A8%D7%97%D7%95%D7%A7%D7%99%D7%9D%20-%20cua%20dai%20/%20an%20bang%20%D7%94%D7%95%D7%99%20%D7%90%D7%9F%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1151,19 +1535,31 @@
       "places": [
         {
           "name": "חוף - my khe",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%97%D7%95%D7%A3%20-%20my%20khe%20%D7%93%D7%94%20%D7%A0%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "בה נה הילס - פארק בהר יפיפה (גשר הידיים)",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%91%D7%94%20%D7%A0%D7%94%20%D7%94%D7%99%D7%9C%D7%A1%20-%20%D7%A4%D7%90%D7%A8%D7%A7%20%D7%91%D7%94%D7%A8%20%D7%99%D7%A4%D7%99%D7%A4%D7%94%20%28%D7%92%D7%A9%D7%A8%20%D7%94%D7%99%D7%93%D7%99%D7%99%D7%9D%29%20%D7%93%D7%94%20%D7%A0%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "גשר הדרקון",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%92%D7%A9%D7%A8%20%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F%20%D7%93%D7%94%20%D7%A0%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "הרי השיש, מקדשי שיש ולידי בודהה - סון טרה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A8%D7%99%20%D7%94%D7%A9%D7%99%D7%A9%2C%20%D7%9E%D7%A7%D7%93%D7%A9%D7%99%20%D7%A9%D7%99%D7%A9%20%D7%95%D7%9C%D7%99%D7%93%D7%99%20%D7%91%D7%95%D7%93%D7%94%D7%94%20-%20%D7%A1%D7%95%D7%9F%20%D7%98%D7%A8%D7%94%20%D7%93%D7%94%20%D7%A0%D7%90%D7%A0%D7%92%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1187,7 +1583,10 @@
       "places": [
         {
           "name": "טיול רגלי / אופניים במקדשים ברחבי העיירה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%A8%D7%92%D7%9C%D7%99%20/%20%D7%90%D7%95%D7%A4%D7%A0%D7%99%D7%99%D7%9D%20%D7%91%D7%9E%D7%A7%D7%93%D7%A9%D7%99%D7%9D%20%D7%91%D7%A8%D7%97%D7%91%D7%99%20%D7%94%D7%A2%D7%99%D7%99%D7%A8%D7%94%20%D7%93%D7%94%20%D7%A0%D7%90%D7%A0%D7%92%20/%20%D7%93%D7%94%20%D7%A0%D7%90%D7%A0%D7%92%20%2B%20%D7%94%D7%95%D7%90%D7%94%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1210,7 +1609,10 @@
       "places": [
         {
           "name": "טיול במערות - חובה לסגור מראש!",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%99%D7%95%D7%9C%20%D7%91%D7%9E%D7%A2%D7%A8%D7%95%D7%AA%20-%20%D7%97%D7%95%D7%91%D7%94%20%D7%9C%D7%A1%D7%92%D7%95%D7%A8%20%D7%9E%D7%A8%D7%90%D7%A9%21%20%D7%A4%D7%95%D7%A0%D7%92%20%D7%A0%D7%94%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1241,23 +1643,38 @@
       "places": [
         {
           "name": "באי דין – מתחם מקדשים ופגודה ענקית – חצי שעה נסיעה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%91%D7%90%D7%99%20%D7%93%D7%99%D7%9F%20%E2%80%93%20%D7%9E%D7%AA%D7%97%D7%9D%20%D7%9E%D7%A7%D7%93%D7%A9%D7%99%D7%9D%20%D7%95%D7%A4%D7%92%D7%95%D7%93%D7%94%20%D7%A2%D7%A0%D7%A7%D7%99%D7%AA%20%E2%80%93%20%D7%97%D7%A6%D7%99%20%D7%A9%D7%A2%D7%94%20%D7%A0%D7%A1%D7%99%D7%A2%D7%94%20%D7%98%D7%90%D7%9D%20%D7%A7%D7%95%D7%A7%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "העיר העתיקה הואה לו Hoa Lu Ancient Capital",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A2%D7%99%D7%A8%20%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94%20%D7%94%D7%95%D7%90%D7%94%20%D7%9C%D7%95%20Hoa%20Lu%20Ancient%20Capital%20%D7%98%D7%90%D7%9D%20%D7%A7%D7%95%D7%A7%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "האנג מואה – תצפית ופגודה מדהימה – 500 מדרגות",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%90%D7%A0%D7%92%20%D7%9E%D7%95%D7%90%D7%94%20%E2%80%93%20%D7%AA%D7%A6%D7%A4%D7%99%D7%AA%20%D7%95%D7%A4%D7%92%D7%95%D7%93%D7%94%20%D7%9E%D7%93%D7%94%D7%99%D7%9E%D7%94%20%E2%80%93%20500%20%D7%9E%D7%93%D7%A8%D7%92%D7%95%D7%AA%20%D7%98%D7%90%D7%9D%20%D7%A7%D7%95%D7%A7%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "פגודת bich dong",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A4%D7%92%D7%95%D7%93%D7%AA%20bich%20dong%20%D7%98%D7%90%D7%9D%20%D7%A7%D7%95%D7%A7%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "שייט נהר נגו דונג / טראנג אן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%99%D7%98%20%D7%A0%D7%94%D7%A8%20%D7%A0%D7%92%D7%95%20%D7%93%D7%95%D7%A0%D7%92%20/%20%D7%98%D7%A8%D7%90%D7%A0%D7%92%20%D7%90%D7%9F%20%D7%98%D7%90%D7%9D%20%D7%A7%D7%95%D7%A7%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1278,7 +1695,10 @@
       "places": [
         {
           "name": "נסיעה מוקדם לשייט + לילה אחד - לסגור מראש",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A0%D7%A1%D7%99%D7%A2%D7%94%20%D7%9E%D7%95%D7%A7%D7%93%D7%9D%20%D7%9C%D7%A9%D7%99%D7%99%D7%98%20%2B%20%D7%9C%D7%99%D7%9C%D7%94%20%D7%90%D7%97%D7%93%20-%20%D7%9C%D7%A1%D7%92%D7%95%D7%A8%20%D7%9E%D7%A8%D7%90%D7%A9%20%D7%98%D7%90%D7%9D%20%D7%A7%D7%95%D7%A7%20%2B%20%D7%94%D7%90%20%D7%9C%D7%95%D7%A0%D7%92%20%D7%91%D7%99%D7%99%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1299,27 +1719,45 @@
       "places": [
         {
           "name": "מולוזיאום הו צי מין",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%95%D7%9C%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9D%20%D7%94%D7%95%20%D7%A6%D7%99%20%D7%9E%D7%99%D7%9F%20%D7%94%D7%90%D7%A0%D7%95%D7%99%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "אגם הואן קיאם ומקדש טראן קואוק",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%90%D7%92%D7%9D%20%D7%94%D7%95%D7%90%D7%9F%20%D7%A7%D7%99%D7%90%D7%9D%20%D7%95%D7%9E%D7%A7%D7%93%D7%A9%20%D7%98%D7%A8%D7%90%D7%9F%20%D7%A7%D7%95%D7%90%D7%95%D7%A7%20%D7%94%D7%90%D7%A0%D7%95%D7%99%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "העיר העתיקה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A2%D7%99%D7%A8%20%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94%20%D7%94%D7%90%D7%A0%D7%95%D7%99%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "רחוב הרכבת",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%A8%D7%97%D7%95%D7%91%20%D7%94%D7%A8%D7%9B%D7%91%D7%AA%20%D7%94%D7%90%D7%A0%D7%95%D7%99%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מקדש הספרות - Temple of Literature",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A7%D7%93%D7%A9%20%D7%94%D7%A1%D7%A4%D7%A8%D7%95%D7%AA%20-%20Temple%20of%20Literature%20%D7%94%D7%90%D7%A0%D7%95%D7%99%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "בית האופרה",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%91%D7%99%D7%AA%20%D7%94%D7%90%D7%95%D7%A4%D7%A8%D7%94%20%D7%94%D7%90%D7%A0%D7%95%D7%99%20%D7%95%D7%99%D7%99%D7%98%D7%A0%D7%90%D7%9D",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1356,7 +1794,10 @@
       "places": [
         {
           "name": "לופ ויאטנם - לסגור מראש",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9C%D7%95%D7%A4%20%D7%95%D7%99%D7%90%D7%98%D7%A0%D7%9D%20-%20%D7%9C%D7%A1%D7%92%D7%95%D7%A8%20%D7%9E%D7%A8%D7%90%D7%A9%20%D7%9C%D7%95%D7%A4%20%D7%94%D7%90%20%D7%92%D7%99%D7%90%D7%A0%D7%92%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
@@ -1393,23 +1834,38 @@
       "places": [
         {
           "name": "ביקור אצל מאמא",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%91%D7%99%D7%A7%D7%95%D7%A8%20%D7%90%D7%A6%D7%9C%20%D7%9E%D7%90%D7%9E%D7%90%20%D7%A1%D7%90%D7%A4%D7%94%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מפלי הכסף",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A4%D7%9C%D7%99%20%D7%94%D7%9B%D7%A1%D7%A3%20%D7%A1%D7%90%D7%A4%D7%94%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "מעבר גן עדן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A2%D7%91%D7%A8%20%D7%92%D7%9F%20%D7%A2%D7%93%D7%9F%20%D7%A1%D7%90%D7%A4%D7%94%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "כפר קאט קאט",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%9B%D7%A4%D7%A8%20%D7%A7%D7%90%D7%98%20%D7%A7%D7%90%D7%98%20%D7%A1%D7%90%D7%A4%D7%94%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         },
         {
           "name": "הר פאנסיפאן",
-          "type": "אטרקציה"
+          "type": "אטרקציה",
+          "website": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A8%20%D7%A4%D7%90%D7%A0%D7%A1%D7%99%D7%A4%D7%90%D7%9F%20%D7%A1%D7%90%D7%A4%D7%94%20%D7%9C%D7%90%20%D7%9E%D7%A1%D7%95%D7%95%D7%92",
+          "description": "קישור מהיר למידע, ניווט ושעות פתיחה דרך מפות Google.",
+          "websiteLabel": "פתח במפות"
         }
       ]
     },
