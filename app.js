@@ -1,6 +1,6 @@
 /* WOW Mobile RTL - unique thumbnails per place (no external images) */
-const STORAGE_KEY = 'trip_itinerary_v9';
-const COUNTRY_KEY = 'selected_country_v9';
+const STORAGE_KEY = 'trip_itinerary_v10';
+const COUNTRY_KEY = 'selected_country_v10';
 
 function hasValidData(d){
   return d && Array.isArray(d.days) && d.days.length > 0;
@@ -39,7 +39,7 @@ async function getDataAsync(){
 
   // 3) fallback: fetch itinerary.json from site
   try{
-    const res = await fetch('itinerary.json?v=9', {cache:'no-store'});
+    const res = await fetch('itinerary.json?v=10', {cache:'no-store'});
     const j = await res.json();
     if (hasValidData(j)){
       localStorage.setItem(STORAGE_KEY, JSON.stringify(j));
@@ -67,7 +67,7 @@ function buildImageUrl(rel){
   // support leading slash
   const path = s.startsWith('/') ? s.slice(1) : s;
   // add cache buster by build version
-  return path + '?v=9';
+  return path + '?v=10';
 }
 
 function buildMapsUrl(query){
