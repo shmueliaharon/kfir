@@ -1,0 +1,15 @@
+איך להוסיף פירוט וקישורים:
+
+ב-itinerary.json, בכל מקום בתוך places, אפשר להוסיף שדות:
+- description: תיאור קצר
+- website: קישור לאתר הרשמי
+
+דוגמה:
+{
+  "name": "Ang Thong National Marine Park",
+  "type": "אטרקציה",
+  "description": "פארק ימי עם איים, תצפיות ושייט. מומלץ להזמין שייט יום מראש בעונה.",
+  "website": "https://www.dnp.go.th/"
+}
+
+אם אין description או website, האפליקציה פשוט לא תציג אותם.

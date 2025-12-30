@@ -1,6 +1,6 @@
 /* WOW Mobile RTL - unique thumbnails per place (no external images) */
-const STORAGE_KEY = 'trip_itinerary_v4';
-const COUNTRY_KEY = 'selected_country_v4';
+const STORAGE_KEY = 'trip_itinerary_v6';
+const COUNTRY_KEY = 'selected_country_v6';
 
 function getData() {
   const saved = localStorage.getItem(STORAGE_KEY);
@@ -14,6 +14,18 @@ function saveData(data){ localStorage.setItem(STORAGE_KEY, JSON.stringify(data))
 function qs(id){ return document.getElementById(id); }
 function sanitizeQuery(s){ return (s || '').toString().trim(); }
 function unique(arr){ return Array.from(new Set(arr)); }
+
+
+function buildImageUrl(rel){
+  // allow absolute http(s) or relative under repo
+  const s = (rel || '').toString().trim();
+  if (!s) return '';
+  if (s.startsWith('http://') || s.startsWith('https://')) return s;
+  // support leading slash
+  const path = s.startsWith('/') ? s.slice(1) : s;
+  // add cache buster by build version
+  return path + '?v=6';
+}
 
 function buildMapsUrl(query){
   const q = encodeURIComponent((query || '').toString().trim());
@@ -131,6 +143,49 @@ function svgThumb(seedText, country){
   return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
 }
 
+
+function getOfficialTourismLinks(day){
+  const loc = (day.location || '').toString();
+  const country = (day.country || '').toString();
+  const links = [];
+
+  // Official tourism portals (good starting point when a specific city site is unavailable)
+  const OFFICIAL = {
+    'תאילנד': { label: 'אתר תיירות רשמי תאילנד (TAT)', url: 'https://www.tourismthailand.org/' },
+    'וייטנאם': { label: 'אתר תיירות רשמי וייטנאם', url: 'https://www.vietnam.travel/' },
+    'לאוס': { label: 'אתר תיירות רשמי לאוס', url: 'https://www.tourismlaos.org/' },
+    'קמבודיה': { label: 'משרד התיירות קמבודיה', url: 'https://www.tourism.gov.kh/' },
+  };
+
+  // If we have a clean country label in the data, use it.
+  if (OFFICIAL[country]) links.push(OFFICIAL[country]);
+
+  // Otherwise, infer by common destination keywords in the itinerary (Hebrew).
+  if (!links.length){
+    const th = ['בנגקוק','קופנגן','קופניאנג','קוטאו','קוסמוי','פוקט','קראבי','צ׳אנג מאי','צ'אנג מאי','פאי'];
+    const vn = ['האנוי','הו צי מין','דה נאנג','הוי אן','הואה','פונג נה','טאם קוק','הא לונג','סאפה','הא גיאנג','דאלאת'];
+    const la = ['לואנג פראבנג','ויאנטין','ואנג ויאנג','נונג קיאו','דון דאט','פקסה','תאקק'];
+    const kh = ['סיאם ריפ','פנום פן','אנגקור'];
+
+    const inList = (arr) => arr.some(k => loc.includes(k));
+    if (inList(th)) links.push(OFFICIAL['תאילנד']);
+    else if (inList(vn)) links.push(OFFICIAL['וייטנאם']);
+    else if (inList(la)) links.push(OFFICIAL['לאוס']);
+    else if (inList(kh)) links.push(OFFICIAL['קמבודיה']);
+  }
+
+  // Always provide a direct Google Maps search for the destination string.
+  if (loc){
+    const q = encodeURIComponent(loc);
+    links.push({ label: 'חיפוש היעד במפות Google', url: `https://www.google.com/maps/search/?api=1&query=${q}` });
+  }
+
+  // De-dup by url
+  const seen = new Set();
+  return links.filter(l => l?.url && !seen.has(l.url) && seen.add(l.url));
+}
+
+
 function setHeroBackground(country, locationText){
   const hero = qs('dayHero');
   hero.style.backgroundImage = `url("${svgBanner(locationText || 'יום טיול', country)}")`;
@@ -242,6 +297,12 @@ function renderDay(data, idx){
 
   setHeroBackground(day.country, day.location);
 
+  const locLinks = getOfficialTourismLinks(day);
+  const locEl = qs('dayLocationInfo');
+  if (locEl){
+    locEl.innerHTML = locLinks.length ? locLinks.map(l => `<a class="link" href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join('<br>') : 'אין קישורים זמינים ליעד זה.';
+  }
+
   qs('dayLodging').textContent = day.lodging || 'לא צוין';
 
   const transfersUl = qs('dayTransfers');
@@ -255,7 +316,8 @@ function renderDay(data, idx){
   placesWrap.innerHTML = places.length ? places.map(p => {
     const type = p.type || 'מקום';
     const icon = iconForType(type);
-    const thumb = svgThumb((p.name || '') + '|' + (day.location || '') + '|' + (day.date || ''), day.country);
+    const real = buildImageUrl(p.image || '');
+    const thumb = real ? real : svgThumb((p.name || '') + '|' + (day.location || '') + '|' + (day.date || ''), day.country);
     const mapsUrl = buildMapsUrl(p.name || day.location || '');
     return `
       <div class="place">
@@ -266,6 +328,8 @@ function renderDay(data, idx){
         <div class="place__body">
           <div class="place__name">${(p.name || '').toString()}</div>
           <div class="place__type">${type}</div>
+          ${p.description ? `<div class="place__desc">${(p.description || '').toString()}</div>` : ''}
+          ${p.website ? `<a class="place__site" href="${p.website}" target="_blank" rel="noopener">אתר רשמי</a>` : ''}
           <div class="place__actions">
             <a class="small" href="${mapsUrl}" target="_blank" rel="noopener">פתח במפות</a>
             <button class="small" data-copy="${(p.name || '').toString()}">העתק שם</button>
