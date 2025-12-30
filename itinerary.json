@@ -12,39 +12,27 @@
       "places": [
         {
           "name": "grand place - מתחם מקדשי המלך",
-          "type": "אטרקציה",
-          "description": "מתחם ארמון המלך ההיסטורי במרכז בנגקוק, כולל Wat Phra Kaew (מקדש בודהת האזמרגד) ומוזיאונים.",
-          "website": "https://www.royalgrandpalace.th/"
+          "type": "אטרקציה"
         },
         {
           "name": "chatuchak markt - שוק מקומי",
-          "type": "אטרקציה",
-          "description": "שוק סוף שבוע ענק (JJ Market) עם אלפי דוכנים: בגדים, מזכרות, אוכל רחוב, עתיקות ועוד. מומלץ להגיע מוקדם.",
-          "website": "https://www.chatuchakmarket.org/"
+          "type": "אטרקציה"
         },
         {
           "name": "asiatique - שוק לילה על הנהר",
-          "type": "אטרקציה",
-          "description": "מתחם שוק לילה ומסעדות על גדת נהר צ'או פראיה, עם חנויות, מופעים ואווירה תיירותית. יש גם גלגל ענק.",
-          "website": "https://www.asiatiquethailand.com/"
+          "type": "אטרקציה"
         },
         {
           "name": "wat arun -מקדש",
-          "type": "אטרקציה",
-          "description": "Wat Arun (Temple of Dawn) על הנהר, אחד הסמלים של בנגקוק, מפורסם במגדל המרכזי המצופה חרסינה ובתצפיות מהטרסות.",
-          "website": "https://www.tourismthailand.org/Promotions/65/wat-arun-or-temple-of-dawn-is-located-along-with-chao-phraya-river"
+          "type": "אטרקציה"
         },
         {
           "name": "iconsiam - קניון ענק",
-          "type": "אטרקציה",
-          "description": "קניון יוקרתי על הנהר עם מותגים בינלאומיים, אזורי אוכל, ומתחם SookSiam בסגנון שוק תאילנדי. נקודת תצפית/טיילת על המים.",
-          "website": "https://www.iconsiam.com/"
+          "type": "אטרקציה"
         },
         {
           "name": "wat pho - מקדש הבודה השוכב",
-          "type": "אטרקציה",
-          "description": "Wat Pho (Temple of the Reclining Buddha): פסל בודהה שוכב עצום, קומפלקס מקדשים מרכזי, ובית הספר למסאז' תאילנדי המסורתי.",
-          "website": "https://www.watpho.com/"
+          "type": "אטרקציה"
         },
         {
           "name": "dusit central park - פארק טבע מטורף",
@@ -52,9 +40,7 @@
         },
         {
           "name": "תצפית מגדל מאהאנקון - Mahanakhon Tower",
-          "type": "אטרקציה",
-          "description": "King Power Mahanakhon SkyWalk: תצפית 360° מעל העיר, כולל רצפת זכוכית (Glass Tray) וחוויית שקיעה מומלצת.",
-          "website": "https://kingpowermahanakhon.co.th/skywalk/"
+          "type": "אטרקציה"
         },
         {
           "name": "sampeng market - שוק מקומי",
@@ -123,27 +109,19 @@
       "places": [
         {
           "name": "טיול יום - 42 האיים - Ang Thong",
-          "type": "אטרקציה",
-          "description": "Mu Ko Ang Thong National Marine Park: ארכיפלג של 42 איים עם קיאקים, שנירקול, תצפיות ולגונה ירוקה (Emerald Lake).",
-          "website": "https://mukoangthongnationalmarinepark.com/"
+          "type": "אטרקציה"
         },
         {
           "name": "טיול יום קוטאו ונאנג יואן",
-          "type": "אטרקציה",
-          "description": "טיול יום לשנירקול סביב Koh Tao וביקור באי Koh Nang Yuan שמחובר בשלושה איים קטנים וגשר חול, כולל תצפית מפורסמת.",
-          "website": "https://visitkohtao.org/"
+          "type": "אטרקציה"
         },
         {
           "name": "טיול סובב קופנגן ברכב 4X4",
-          "type": "אטרקציה",
-          "description": "סיור 4x4 סביב Koh Phangan עם נקודות תצפית, חופים ומפלים לפי העונה. מתאים למי שרוצה לראות הרבה ביום אחד.",
-          "website": "https://www.tourismthailand.org/"
+          "type": "אטרקציה"
         },
         {
           "name": "שוק אוכל יום ראשון - הד רין",
-          "type": "אטרקציה",
-          "description": "שוק אוכל/דוכנים באזור Haad Rin בקופנגן (אזור חוף מפורסם). שעות ומיקום משתנים לפי עונה ואירועים.",
-          "website": "https://www.tourismthailand.org/"
+          "type": "אטרקציה"
         },
         {
           "name": "טיול יום בגונגלים חופים ומפלים",
@@ -183,9 +161,7 @@
       "places": [
         {
           "name": "טיול 42 האיים - יותר זול מקופנגן",
-          "type": "אטרקציה",
-          "description": "סיור יום לאיי Ang Thong (42 איים) כולל שייט, שנירקול/קיאקים ונקודות תצפית. לעיתים המחיר משתנה לפי ספק/נמל יציאה.",
-          "website": "https://mukoangthongnationalmarinepark.com/"
+          "type": "אטרקציה"
         },
         {
           "name": "אי החזירים",

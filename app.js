@@ -1,16 +1,59 @@
 /* WOW Mobile RTL - unique thumbnails per place (no external images) */
-const STORAGE_KEY = 'trip_itinerary_v6';
-const COUNTRY_KEY = 'selected_country_v6';
+const STORAGE_KEY = 'trip_itinerary_v8';
+const COUNTRY_KEY = 'selected_country_v8';
 
-function getData() {
-  const saved = localStorage.getItem(STORAGE_KEY);
-  if (saved) {
-    try { return JSON.parse(saved); } catch (e) {}
-  }
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(window.ITINERARY_DATA));
-  return window.ITINERARY_DATA;
+function hasValidData(d){
+  return d && Array.isArray(d.days) && d.days.length > 0;
 }
-function saveData(data){ localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); }
+
+function getQueryParam(name){
+  try { return new URL(location.href).searchParams.get(name); } catch(e) { return null; }
+}
+
+async function getDataAsync(){
+  // reset via URL: ?reset=1
+  const reset = getQueryParam('reset');
+  if (reset === '1' || reset === 'true'){
+    try{
+      localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(COUNTRY_KEY);
+    }catch(e){}
+  }
+
+  // 1) localStorage (only if valid)
+  try{
+    const saved = localStorage.getItem(STORAGE_KEY);
+    if (saved){
+      const parsed = JSON.parse(saved);
+      if (hasValidData(parsed)) return parsed;
+    }
+  }catch(e){}
+
+  // 2) embedded data in index.html
+  try{
+    if (hasValidData(window.ITINERARY_DATA)){
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(window.ITINERARY_DATA));
+      return window.ITINERARY_DATA;
+    }
+  }catch(e){}
+
+  // 3) fallback: fetch itinerary.json from site
+  try{
+    const res = await fetch('itinerary.json?v=8', {cache:'no-store'});
+    const j = await res.json();
+    if (hasValidData(j)){
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(j));
+      return j;
+    }
+  }catch(e){}
+
+  // last resort: empty
+  const empty = { title: 'מסלול הטיול שלי', days: [] };
+  try{ localStorage.setItem(STORAGE_KEY, JSON.stringify(empty)); }catch(e){}
+  return empty;
+}
+
+function saveData(data){ try{ localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); }catch(e){} }
 function qs(id){ return document.getElementById(id); }
 function sanitizeQuery(s){ return (s || '').toString().trim(); }
 function unique(arr){ return Array.from(new Set(arr)); }
@@ -24,7 +67,7 @@ function buildImageUrl(rel){
   // support leading slash
   const path = s.startsWith('/') ? s.slice(1) : s;
   // add cache buster by build version
-  return path + '?v=6';
+  return path + '?v=8';
 }
 
 function buildMapsUrl(query){
@@ -143,49 +186,6 @@ function svgThumb(seedText, country){
   return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
 }
 
-
-function getOfficialTourismLinks(day){
-  const loc = (day.location || '').toString();
-  const country = (day.country || '').toString();
-  const links = [];
-
-  // Official tourism portals (good starting point when a specific city site is unavailable)
-  const OFFICIAL = {
-    'תאילנד': { label: 'אתר תיירות רשמי תאילנד (TAT)', url: 'https://www.tourismthailand.org/' },
-    'וייטנאם': { label: 'אתר תיירות רשמי וייטנאם', url: 'https://www.vietnam.travel/' },
-    'לאוס': { label: 'אתר תיירות רשמי לאוס', url: 'https://www.tourismlaos.org/' },
-    'קמבודיה': { label: 'משרד התיירות קמבודיה', url: 'https://www.tourism.gov.kh/' },
-  };
-
-  // If we have a clean country label in the data, use it.
-  if (OFFICIAL[country]) links.push(OFFICIAL[country]);
-
-  // Otherwise, infer by common destination keywords in the itinerary (Hebrew).
-  if (!links.length){
-    const th = ['בנגקוק','קופנגן','קופניאנג','קוטאו','קוסמוי','פוקט','קראבי','צ׳אנג מאי','צ'אנג מאי','פאי'];
-    const vn = ['האנוי','הו צי מין','דה נאנג','הוי אן','הואה','פונג נה','טאם קוק','הא לונג','סאפה','הא גיאנג','דאלאת'];
-    const la = ['לואנג פראבנג','ויאנטין','ואנג ויאנג','נונג קיאו','דון דאט','פקסה','תאקק'];
-    const kh = ['סיאם ריפ','פנום פן','אנגקור'];
-
-    const inList = (arr) => arr.some(k => loc.includes(k));
-    if (inList(th)) links.push(OFFICIAL['תאילנד']);
-    else if (inList(vn)) links.push(OFFICIAL['וייטנאם']);
-    else if (inList(la)) links.push(OFFICIAL['לאוס']);
-    else if (inList(kh)) links.push(OFFICIAL['קמבודיה']);
-  }
-
-  // Always provide a direct Google Maps search for the destination string.
-  if (loc){
-    const q = encodeURIComponent(loc);
-    links.push({ label: 'חיפוש היעד במפות Google', url: `https://www.google.com/maps/search/?api=1&query=${q}` });
-  }
-
-  // De-dup by url
-  const seen = new Set();
-  return links.filter(l => l?.url && !seen.has(l.url) && seen.add(l.url));
-}
-
-
 function setHeroBackground(country, locationText){
   const hero = qs('dayHero');
   hero.style.backgroundImage = `url("${svgBanner(locationText || 'יום טיול', country)}")`;
@@ -297,12 +297,6 @@ function renderDay(data, idx){
 
   setHeroBackground(day.country, day.location);
 
-  const locLinks = getOfficialTourismLinks(day);
-  const locEl = qs('dayLocationInfo');
-  if (locEl){
-    locEl.innerHTML = locLinks.length ? locLinks.map(l => `<a class="link" href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join('<br>') : 'אין קישורים זמינים ליעד זה.';
-  }
-
   qs('dayLodging').textContent = day.lodging || 'לא צוין';
 
   const transfersUl = qs('dayTransfers');
@@ -363,6 +357,14 @@ function wireActions(){
     setTimeout(() => qs('btnCopyLink').textContent = 'העתק קישור', 900);
   });
 
+  qs('btnReset').addEventListener('click', () => {
+    try{
+      localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(COUNTRY_KEY);
+    }catch(e){}
+    location.href = location.pathname + '?v=8&reset=1';
+  });
+
   qs('btnExport').addEventListener('click', () => {
     const blob = new Blob([JSON.stringify(getData(), null, 2)], {type:'application/json'});
     const a = document.createElement('a');
@@ -394,8 +396,8 @@ function wireActions(){
   qs('tabTop').addEventListener('click', () => window.scrollTo({top:0, behavior:'smooth'}));
 }
 
-function main(){
-  const data = getData();
+async function main(){
+  const data = await getDataAsync();
   qs('tripTitle').textContent = data.title || '';
   wireActions();
 
